@@ -3,6 +3,6 @@
 
 frappe.ui.form.on('MR', {
 	refresh: function(frm) {
-
+		console.log('ea');
 	}
 });
